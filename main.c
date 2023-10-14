@@ -1,3 +1,4 @@
+/* Author: Kanashev E.A. */
 #include <stdio.h>
 #include <stdlib.h>
 
