@@ -10,6 +10,7 @@ int main()
     float b = 3.23;
     float c = add (a, b);
     a = c - b;
+    b = c + a;
     return 0;
 }
 
